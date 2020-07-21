@@ -1,0 +1,7 @@
+<html>
+<body bgcolor = "Sky Blue">
+<H1><b><i> AWS Infrastructure  </b></i></H1>
+<br>
+<img src = "https://d2crvoxzd74e15.cloudfront.net/image" width="800" height="500">
+</body>
+</html>
